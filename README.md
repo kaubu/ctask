@@ -1,1 +1,5 @@
 # ctask
+
+## Prerequisites
+
+*  glfw
